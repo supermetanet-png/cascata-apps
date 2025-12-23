@@ -1,0 +1,18 @@
+[
+  {
+    "id": "n8n",
+    "name": "n8n Workflow Automation",
+    "description": "Ferramenta de automação de fluxo de trabalho profissional.",
+    "logo": "https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png",
+    "version": "latest",
+    "tags": ["Automation", "Low-code"]
+  },
+  {
+    "id": "wordpress",
+    "name": "WordPress",
+    "description": "CMS mais popular do mundo.",
+    "logo": "https://s.w.org/style/images/about/WordPress-logotype-wmark.png",
+    "version": "6.4",
+    "tags": ["CMS", "Website"]
+  }
+]
